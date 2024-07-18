@@ -9,6 +9,8 @@ The latest version of the user manual is at: https://rtkexplorer.com/pdfs/manual
    
 WINDOWS: To build and install code for with Windows Embarcadero compiler:
 
+https://rtklibexplorer.wordpress.com/2020/12/04/building-rtklib-code-in-windows/
+
 GUIs: 
 1) Build executables with app/winapp/rtklib_winapp.groupproj project file 
 2) Install executables and DLLs to ../RTKLIB/bin by runnning app/winapp/install_winapp.bat
